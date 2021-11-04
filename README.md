@@ -1,2 +1,3 @@
-# Ull_P_Act8_Gaytan_Leslie
-P_Act8_Página web PHP servidor XAMPP  
+# uii_actividad1
+Plantilla básica en PHP
+#Ojo tus archivos cambiaron de extencion .html a .php
